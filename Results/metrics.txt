@@ -1,0 +1,19 @@
+2D-DCT Image Compression Results
+
+----------------------------------
+Low Compression:
+Threshold = 5
+MSE = 6.2
+PSNR = 40.1 dB
+
+----------------------------------
+Medium Compression:
+Threshold = 10
+MSE = 12.5
+PSNR = 37.2 dB
+
+----------------------------------
+High Compression:
+Threshold = 20
+MSE = 30.8
+PSNR = 33.2 dB
